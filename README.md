@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm R.Raghul Rajkumar</h1>
 <h3 align="center">Data Science Student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rraghulrajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rraghulrajkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rraghulrajkumar" alt="rraghulrajkumar" /></a> </p>
